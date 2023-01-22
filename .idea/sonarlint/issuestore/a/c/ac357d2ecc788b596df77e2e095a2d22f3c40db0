@@ -1,0 +1,12 @@
+
+j
+java:S20952"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·Ç‚æøÿÿÿÿ
+j
+java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·Ç‚æøÿÿÿÿ
+q
+java:S2095="OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·Ç‚æøÿÿÿÿ8·ıõ´Œ0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8ùÒ™ÅŒ0
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(è³Ëôüÿÿÿÿ8­¡ÅŒ0
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8…§ÆŒ0
+^
+java:S1128"<Remove this unused import 'com.mysql.cj.xdevapi.Collection'.(ßÚÊ¡úÿÿÿÿ8áğø´Œ0

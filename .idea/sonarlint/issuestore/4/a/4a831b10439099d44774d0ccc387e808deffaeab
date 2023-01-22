@@ -1,0 +1,9 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "menu".(”œ¨ê8ˆú¯¶Œ0
+F
+java:S1481")Remove this unused "menu" local variable.(”œ¨ê8œú¯¶Œ0
+K
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8ãý¹¶Œ0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8äý¹¶Œ0

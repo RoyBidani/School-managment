@@ -1,0 +1,151 @@
+
+R
+java:S1854M"<Remove this useless assignment to local variable "students".(ìøşÌ
+W
+java:S1854h"<Remove this useless assignment to local variable "teachers".(ø—€§ÿÿÿÿÿ
+
+java:S1130p"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(í“‚
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(ôêï‚ÿÿÿÿÿ
+”
+java:S1130x"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(ä¶ŠÁşÿÿÿÿ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(±—·“úÿÿÿÿ
+G
+java:S1611‚"0Remove the parentheses around the "rs" parameter(²ù—ş
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(”‹ Œ
+G
+java:S1611"0Remove the parentheses around the "rs" parameter(éúƒÓ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Âƒà‰üÿÿÿÿ
+S
+java:S1854—"<Remove this useless assignment to local variable "students".(ìøşÌ
+S
+java:S1854¢"<Remove this useless assignment to local variable "students".(ìøşÌ
+S
+java:S1854­"<Remove this useless assignment to local variable "students".(ìøşÌ
+H
+java:S1611¶"1Remove the parentheses around the "rs1" parameter(±çÊú
+H
+java:S1611¼"1Remove the parentheses around the "rs2" parameter(–“ÂÊ
+S
+java:S1854Ú"<Remove this useless assignment to local variable "students".(ìøşÌ
+S
+java:S1854ä"<Remove this useless assignment to local variable "students".(ìøşÌ
+S
+java:S1854î"<Remove this useless assignment to local variable "students".(ìøşÌ
+S
+java:S1854ø"<Remove this useless assignment to local variable "students".(ìøşÌ
+S
+java:S1854‚"<Remove this useless assignment to local variable "students".(ìøşÌ
+S
+java:S1854Œ"<Remove this useless assignment to local variable "students".(ìøşÌ
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(éÃÛŸúÿÿÿÿ
+N
+java:S6126›"2Replace this String concatenation with Text block.(éÃÛŸúÿÿÿÿ
+8	java:S131Ÿ""Add a default case to this switch.(Ò¤÷î
+N	java:S106¡"9Replace this use of System.out or System.err by a logger.(Ø«è
+O	java:S106§"9Replace this use of System.out or System.err by a logger.(™Ãôå
+O	java:S106­"9Replace this use of System.out or System.err by a logger.(²¨¿÷
+O	java:S106³"9Replace this use of System.out or System.err by a logger.(¤—ˆÊ
+O	java:S106¹"9Replace this use of System.out or System.err by a logger.(ØõÇ½
+T	java:S106¿"9Replace this use of System.out or System.err by a logger.(¶¶ùâûÿÿÿÿ
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(ò•ûĞûÿÿÿÿ
+O	java:S106Ë"9Replace this use of System.out or System.err by a logger.(ƒ“©
+T	java:S106ß"9Replace this use of System.out or System.err by a logger.(éÃÛŸúÿÿÿÿ
+N
+java:S6126ß"2Replace this String concatenation with Text block.(éÃÛŸúÿÿÿÿ
+8	java:S131ä""Add a default case to this switch.(Ò¤÷î
+O	java:S106æ"9Replace this use of System.out or System.err by a logger.(™Ãôå
+N	java:S106ì"9Replace this use of System.out or System.err by a logger.(Ø«è
+N	java:S106ò"9Replace this use of System.out or System.err by a logger.(ª¿†Y
+O	java:S106ø"9Replace this use of System.out or System.err by a logger.(ØõÇ½
+O	java:S106ş"9Replace this use of System.out or System.err by a logger.(ƒ“©
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(²¨¿÷
+d
+java:S1659 "HDeclare "phoneNumber" and all following declarations on a separate line.(Í™ÿÿÿÿÿ
+D
+java:S2440¤"-Remove this instantiation of "ScannerGetter".(€£ÿä
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(éÜ°ò
+L
+java:S2209¦"5Change this instance-reference to a static reference.(­“›
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿ
+L
+java:S2209¨"5Change this instance-reference to a static reference.(Íå¤á
+T	java:S106©"9Replace this use of System.out or System.err by a logger.(Å‡È»şÿÿÿÿ
+Q
+java:S2209ª"5Change this instance-reference to a static reference.(µ„„ûÿÿÿÿ
+O	java:S106«"9Replace this use of System.out or System.err by a logger.(ÓÖñî
+Q
+java:S2209¬"5Change this instance-reference to a static reference.(¶Õ¿¨ûÿÿÿÿ
+O	java:S106­"9Replace this use of System.out or System.err by a logger.(öêõ
+L
+java:S2209®"5Change this instance-reference to a static reference.(„«ê
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(™è¥ºÿÿÿÿÿ
+L
+java:S2209°"5Change this instance-reference to a static reference.(‘’ßº
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(õ‘³€şÿÿÿÿ
+L
+java:S2209²"5Change this instance-reference to a static reference.(øˆƒ
+O	java:S106³"9Replace this use of System.out or System.err by a logger.(ÜÓå
+L
+java:S2209´"5Change this instance-reference to a static reference.(¢·•
+b
+java:S1659½"?Declare "id" and all following declarations on a separate line.(‰»äÛøÿÿÿÿ8ô ŞÆŒ0
+K
+java:S2440¼"-Remove this instantiation of "ScannerGetter".(€£ÿä8õ ŞÆŒ0
+V	java:S106¿"9Replace this use of System.out or System.err by a logger.(éÜ°ò8õ ŞÆŒ0
+S
+java:S2209À"5Change this instance-reference to a static reference.(­“›8ö ŞÆŒ0
+[	java:S106Á"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿ8ö ŞÆŒ0
+S
+java:S2209Â"5Change this instance-reference to a static reference.(Íå¤á8ø ŞÆŒ0
+[	java:S106Ã"9Replace this use of System.out or System.err by a logger.(Å‡È»şÿÿÿÿ8ù ŞÆŒ0
+X
+java:S2209Ä"5Change this instance-reference to a static reference.(µ„„ûÿÿÿÿ8ù ŞÆŒ0
+V	java:S106Å"9Replace this use of System.out or System.err by a logger.(ÓÖñî8ù ŞÆŒ0
+X
+java:S2209Æ"5Change this instance-reference to a static reference.(¶Õ¿¨ûÿÿÿÿ8ú ŞÆŒ0
+V	java:S106Ç"9Replace this use of System.out or System.err by a logger.(ÜÓå8ú ŞÆŒ0
+S
+java:S2209È"5Change this instance-reference to a static reference.(¢·•8ú ŞÆŒ0
+V	java:S106É"9Replace this use of System.out or System.err by a logger.(öêõ8û ŞÆŒ0
+S
+java:S2209Ê"5Change this instance-reference to a static reference.(„«ê8û ŞÆŒ0
+c
+java:S11923"MDefine a constant instead of duplicating this literal "teacherCurse" 3 times.(È–õú
+s
+java:S1192£"PDefine a constant instead of duplicating this literal "' WHERE id = '" 14 times.(¦†Ï¶şÿÿÿÿ8ÿ ŞÆŒ0
+b
+java:S1192"LDefine a constant instead of duplicating this literal "phoneNumber" 5 times.(’¿£¡
+\
+java:S1192"FDefine a constant instead of duplicating this literal "curse" 4 times.(œ®©Ç
+\
+java:S1192""FDefine a constant instead of duplicating this literal "class" 3 times.(Î ÿÀ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(½½è“úÿÿÿÿ
+‹
+java:S1319;"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ã¬÷Çøÿÿÿÿ
+‹
+java:S1319K"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(áŠ±¬ùÿÿÿÿ
+†
+java:S1319f"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ä¢ÊÚ
+Œ
+java:S1319•"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ïİèùıÿÿÿÿ
+‡
+java:S1319 "pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(³§ëå
+Œ
+java:S1319«"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(”ò¾ïüÿÿÿÿ
+Œ
+java:S1319Ø"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(“š¼şÿÿÿÿ
+‡
+java:S1319â"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¸ÚèÕ
+Œ
+java:S1319ì"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ìü±øıÿÿÿÿ
+‡
+java:S1319ö"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ü¢îé
+‡
+java:S1319€"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(È»ÈÅ
+“
+java:S1319Š"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ë£ª¤ùÿÿÿÿ8‚¡ŞÆŒ0
+z
+java:S1488Y"_Immediately return this expression instead of assigning it to the temporary variable "student".(­ì•Íùÿÿÿÿ
+u
+java:S1488a"_Immediately return this expression instead of assigning it to the temporary variable "teacher".(ú»Ë
